@@ -1,0 +1,4 @@
+1790705368s 1 https://dandiarchive.s3.amazonaws.com/zarr/580fd4b2-44ef-4a15-aa6b-b9444676d0cc/processing/VISp_0/image_segmentation/roi_table/dendrite_probability/.zarray?versionId=zdTMqeTl.k9tW8_dg8IjADxbQ9lj1YGi
+1790705368s 1 https://api.dandiarchive.org/api/zarr/580fd4b2-44ef-4a15-aa6b-b9444676d0cc/files?prefix=processing%2FVISp_0%2Fimage_segmentation%2Froi_table%2Fdendrite_probability%2F.zarray&download=true
+1790705383s 1 https://dandiarchive.s3.amazonaws.com/zarr/580fd4b2-44ef-4a15-aa6b-b9444676d0cc/processing/VISp_0/image_segmentation/roi_table/soma_probability/.zarray?versionId=BL3jZi5eJ7fB.xITIRArjB2Dd3xFux0L
+1790705383s 1 https://api.dandiarchive.org/api/zarr/580fd4b2-44ef-4a15-aa6b-b9444676d0cc/files?prefix=processing%2FVISp_0%2Fimage_segmentation%2Froi_table%2Fsoma_probability%2F.zarray&download=true
